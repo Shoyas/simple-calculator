@@ -1,0 +1,33 @@
+body{
+    background-color:rgba(113, 195, 228, 0.548)!important;
+}
+header{
+    text-align: center;
+}
+.calculator{
+    border: 2px solid gray;
+    width: 22% !important;
+    height: 360px;
+    background-color: lightgrey;
+    margin: 100px auto;
+}
+.display{
+    margin : 15px 0px;
+    text-align: right;
+    font-weight: bold !important;
+    font-size: 25px !important;
+}
+.btn-place{
+    margin: 8px;
+    padding: 14px 14px;
+}
+.last-part{
+    width: 45%;
+}
+#point{
+    padding: 0px 16px;
+    margin-left: 13px;
+}
+#zero{
+    margin-left: 12px;
+}
